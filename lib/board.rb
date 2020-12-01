@@ -1,2 +1,2 @@
 # Define the variable board below.
-define board[]
+Define method 
